@@ -1,0 +1,14 @@
+[2026-06-05 18:14:29.718] [0000375C] === Logging started ===
+[2026-06-05 18:14:29.748] [0000375C] Executing: "C:\Program Files\dotnet\dotnet.exe" build CraftBazar.sln --no-restore -v:minimal, PID: 14172, PPID: 24076
+[2026-06-05 18:14:29.757] [0000375C] IsElevated: False
+[2026-06-05 18:14:29.757] [0000375C] Is64BitProcess: True
+[2026-06-05 18:14:29.757] [0000375C] RebootPending: True
+[2026-06-05 18:14:29.757] [0000375C] ProcessorArchitecture: amd64
+[2026-06-05 18:14:29.757] [0000375C] HostArchitecture: x64
+[2026-06-05 18:14:29.757] [0000375C] SdkDirectory: 9.0.314
+[2026-06-05 18:14:29.757] [0000375C] VerifySignatures: False
+[2026-06-05 18:14:29.757] [0000375C] SDK feature band: 9.0.300
+[2026-06-05 18:15:20.561] [0000375C] Shutting down
+[2026-06-05 18:15:20.562] [0000375C] Shutdown completed.
+[2026-06-05 18:15:20.562] [0000375C] Restart required: False
+[2026-06-05 18:15:20.603] [0000375C] === Logging ended ===

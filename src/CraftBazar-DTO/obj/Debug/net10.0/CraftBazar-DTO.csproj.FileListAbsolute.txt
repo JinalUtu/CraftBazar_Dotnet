@@ -1,0 +1,11 @@
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-DTO\bin\Debug\net10.0\CraftBazar-DTO.deps.json
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-DTO\bin\Debug\net10.0\CraftBazar-DTO.dll
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-DTO\bin\Debug\net10.0\CraftBazar-DTO.pdb
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-DTO\obj\Debug\net10.0\CraftBazar-DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-DTO\obj\Debug\net10.0\CraftBazar-DTO.AssemblyInfoInputs.cache
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-DTO\obj\Debug\net10.0\CraftBazar-DTO.AssemblyInfo.cs
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-DTO\obj\Debug\net10.0\CraftBazar-DTO.csproj.CoreCompileInputs.cache
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-DTO\obj\Debug\net10.0\CraftBazar-DTO.dll
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-DTO\obj\Debug\net10.0\refint\CraftBazar-DTO.dll
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-DTO\obj\Debug\net10.0\CraftBazar-DTO.pdb
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-DTO\obj\Debug\net10.0\ref\CraftBazar-DTO.dll

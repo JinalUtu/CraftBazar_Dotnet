@@ -1,0 +1,17 @@
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Queries\bin\Debug\net10.0\CraftBazar-Queries.deps.json
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Queries\bin\Debug\net10.0\CraftBazar-Queries.dll
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Queries\bin\Debug\net10.0\CraftBazar-Queries.pdb
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Queries\bin\Debug\net10.0\CraftBazar-DTO.dll
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Queries\bin\Debug\net10.0\CraftBazar-Infrastructure.dll
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Queries\bin\Debug\net10.0\CraftBazar-DTO.pdb
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Queries\bin\Debug\net10.0\CraftBazar-Infrastructure.pdb
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Queries\obj\Debug\net10.0\CraftBazar-Queries.csproj.AssemblyReference.cache
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Queries\obj\Debug\net10.0\CraftBazar-Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Queries\obj\Debug\net10.0\CraftBazar-Queries.AssemblyInfoInputs.cache
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Queries\obj\Debug\net10.0\CraftBazar-Queries.AssemblyInfo.cs
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Queries\obj\Debug\net10.0\CraftBazar-Queries.csproj.CoreCompileInputs.cache
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Queries\obj\Debug\net10.0\CraftBaz.3B5B3AFC.Up2Date
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Queries\obj\Debug\net10.0\CraftBazar-Queries.dll
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Queries\obj\Debug\net10.0\refint\CraftBazar-Queries.dll
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Queries\obj\Debug\net10.0\CraftBazar-Queries.pdb
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Queries\obj\Debug\net10.0\ref\CraftBazar-Queries.dll

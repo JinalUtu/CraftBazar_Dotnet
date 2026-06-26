@@ -1,0 +1,17 @@
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Commands\bin\Debug\net10.0\CraftBazar-Commands.deps.json
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Commands\bin\Debug\net10.0\CraftBazar-Commands.dll
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Commands\bin\Debug\net10.0\CraftBazar-Commands.pdb
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Commands\bin\Debug\net10.0\CraftBazar-DTO.dll
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Commands\bin\Debug\net10.0\CraftBazar-Infrastructure.dll
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Commands\bin\Debug\net10.0\CraftBazar-DTO.pdb
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Commands\bin\Debug\net10.0\CraftBazar-Infrastructure.pdb
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Commands\obj\Debug\net10.0\CraftBazar-Commands.csproj.AssemblyReference.cache
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Commands\obj\Debug\net10.0\CraftBazar-Commands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Commands\obj\Debug\net10.0\CraftBazar-Commands.AssemblyInfoInputs.cache
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Commands\obj\Debug\net10.0\CraftBazar-Commands.AssemblyInfo.cs
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Commands\obj\Debug\net10.0\CraftBazar-Commands.csproj.CoreCompileInputs.cache
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Commands\obj\Debug\net10.0\CraftBaz.12694CF3.Up2Date
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Commands\obj\Debug\net10.0\CraftBazar-Commands.dll
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Commands\obj\Debug\net10.0\refint\CraftBazar-Commands.dll
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Commands\obj\Debug\net10.0\CraftBazar-Commands.pdb
+C:\Users\JinalTandel\OneDrive - 1Rivet US, Inc\Documents\Learning\DotNet CSharp PRogramming Learning\CraftBazar\src\CraftBazar-Commands\obj\Debug\net10.0\ref\CraftBazar-Commands.dll
