@@ -1,4 +1,3 @@
-using CraftBazar_DTO.Common;
 using Microsoft.AspNetCore.Mvc;
 
 [ApiController]
@@ -16,36 +15,28 @@ public class DemoJSONController : ControllerBase
     public async Task<IActionResult> GetUsers()
     {
         var result = await _jsonService.GetUsersAsync();
-        return Ok(ApiResponse<string>.SuccessResponse(
-            result,
-            "Users retrieved successfully."));
+        return Ok(new { data = result, message = "Users retrieved successfully." });
     }
 
     [HttpPost]
     public async Task<IActionResult> Create(JsonUserRequestDto user)
     {
         var result = await _jsonService.CreateUserAsync(user);
-        return Ok(ApiResponse<JsonUserRequestDto?>.SuccessResponse(
-            result,
-            "User created successfully."));
+        return Ok(new { data = result, message = "User created successfully." });
     }
 
     [HttpPut("{id}")]
     public async Task<IActionResult> Update(int id, JsonUserRequestDto user)
     {
         var result = await _jsonService.UpdateUserAsync(id, user);
-        return Ok(ApiResponse<JsonUserRequestDto?>.SuccessResponse(
-            result,
-            "User updated successfully."));
+        return Ok(new { data = result, message = "User updated successfully." });
     }
 
     [HttpPatch("{id}")]
     public async Task<IActionResult> UpdateUser(int id, JsonUserRequestDto user)
     {
         var result = await _jsonService.PatchUserAsync(id, user);
-        return Ok(ApiResponse<JsonUserRequestDto?>.SuccessResponse(
-            result,
-            "User updated successfully."));
+        return Ok(new { data = result, message = "User updated successfully." });
     }
 
     [HttpDelete("{id}")]
@@ -54,12 +45,8 @@ public class DemoJSONController : ControllerBase
         var deleted = await _jsonService.DeleteUserAsync(id);
 
         if (!deleted)
-            return BadRequest(ApiResponse<object>.FailureResponse(
-                "User delete failed.",
-                new List<string> { "Unable to delete user." }));
+            return BadRequest(new { message = "User delete failed.", errors = new List<string> { "Unable to delete user." } });
 
-        return Ok(ApiResponse<object>.SuccessResponse(
-            null,
-            "User deleted successfully."));
+        return Ok(new { message = "User deleted successfully." });
     }
 }

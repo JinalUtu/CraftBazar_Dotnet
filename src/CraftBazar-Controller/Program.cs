@@ -14,7 +14,10 @@ using Scalar.AspNetCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add controllers.
-builder.Services.AddControllers();
+builder.Services.AddControllers(options =>
+{
+    options.Filters.Add(new CraftBazar_Controller.Filters.ApiResponseFilterAttribute());
+});
 
 // Add HttpClient
 builder.Services.AddHttpClient();

@@ -1,5 +1,3 @@
-using CraftBazar.Commands.Authentication.Register;
-using CraftBazar_DTO.Common;
 using CraftBazar_Controller.Jobs;
 using Hangfire;
 using Microsoft.AspNetCore.Mvc;
@@ -23,7 +21,7 @@ public class AuthController : ControllerBase
     }
 
     [HttpPost("register")]
-    public async Task<ActionResult<ApiResponse<object?>>> Register([FromBody] RegisterRequestDto dto)
+    public async Task<IActionResult> Register([FromBody] RegisterRequestDto dto)
     {
         var result = await _authService.RegisterAsync(dto);
 
@@ -42,30 +40,22 @@ public class AuthController : ControllerBase
             /* Test Failure */
             // _backgroundJobClient.Enqueue<RegistrationEmailJob>(job => job.TestFailure());
 
-            return Ok(ApiResponse<object>.SuccessResponse(
-                null,
-                "Registration successful."));
+            return Ok();
         }
 
-        return BadRequest(ApiResponse<object>.FailureResponse(
-            "Registration failed.",
-            new List<string> { "Registration could not be completed." }));
+        return BadRequest("Registration failed.");
     }
 
     [HttpPost("login")]
-    public async Task<ActionResult<ApiResponse<LoginResponseDto>>> Login([FromBody] LoginRequestDto dto)
+    public async Task<IActionResult> Login([FromBody] LoginRequestDto dto)
     {
         var result = await _authService.LoginAsync(dto);
 
         if (result == null)
         {
-            return BadRequest(ApiResponse<LoginResponseDto>.FailureResponse(
-                "Login failed.",
-                new List<string> { "Invalid email or password." }));
+            return BadRequest("Login failed.");
         }
 
-        return Ok(ApiResponse<LoginResponseDto>.SuccessResponse(
-            result,
-            "Login successful."));
+        return Ok(result);
     }
 }
