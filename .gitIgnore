@@ -1,0 +1,10 @@
+# Build outputs
+bin/
+obj/
+
+# Debug symbols
+*.pdb
+
+# Compiled assemblies
+*.dll
+*.exe
